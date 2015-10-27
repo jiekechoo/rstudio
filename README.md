@@ -7,7 +7,7 @@ git clone https://github.com/jiekechoo/rstudio.git
 
 ## build
 ```
-docker build sectong/rstudio
+docker build sectong/rstudio .
 ```
 ## run
 ```
